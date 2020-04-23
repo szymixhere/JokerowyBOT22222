@@ -10,6 +10,7 @@
     "hh-mm-ss": "^1.2.0",
     "jimp": "latest",
     "libsodium-wrappers": "latest",
+    "node-emoji": "^1.10.0",
     "opusscript": "latest",
     "request": "^2.88.2",
     "simple-youtube-api": "^5.2.1",
